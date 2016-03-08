@@ -52,6 +52,7 @@ project/plugins/project/
 *.log
 *.sql
 *.sqlite
+**/logs/*
 
 # OS generated files #
 ######################
